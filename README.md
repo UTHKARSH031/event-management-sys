@@ -139,4 +139,4 @@ This project is created for educational purposes and portfolio demonstration.
 
 N.Uthkarsh Sai  
 BTech AI & Data Science  
-Amrita Vishwa Vidyapeeth
+Amrita Vishwa Vidyapeetham
